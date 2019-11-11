@@ -1,10 +1,15 @@
-Install Eclipse or other IDE java program
-Download all classes
-Open all simultaneously in Eclipse
-Run program
-Add user(s) and fill in all necessary information being prompted
-Add dog(s) and fill in all necessary information being prompted
-Set dog(s) up for auction
-Make bid(s) for dog(s) with different users
-Close Auction(s)
-Try to make the program crash or glitch - its foolproof
+#How to run, and use program
+
+How to run:
+1. Install Eclipse or other IDE java program
+2. Download all classes and save in new map
+3. Open all classes in map created in step 2 in Eclipse
+4. Run program
+
+How to use/interact with program:
+1. Add user(s) and fill in all necessary information being prompted
+2. Add dog(s) and fill in all necessary information being prompted
+3. Set dog(s) up for auction
+4. Make bid(s) for dog(s) with different users
+5. Close Auction(s)
+6. Try to make the program crash or glitch - its foolproof ;)
